@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/nicocube/tap-summary#readme",
   "dependencies": {
+    "@freecube/tap-out": "^3.0.3",
     "ansi-escape": "^1.0.1",
     "commander": "^2.9.0",
     "figures": "^2.0.0",
-    "pretty-ms": "^3.0.0",
-    "@freecube/tap-out": "^3.0.2"
+    "pretty-ms": "^3.0.0"
   },
   "devDependencies": {
     "concat-stream": "^1.5.1",
