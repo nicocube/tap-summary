@@ -1,6 +1,6 @@
 {
   "name": "@freecube/tap-summary",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "Summarize TAP",
   "main": "index.js",
   "bin": {
