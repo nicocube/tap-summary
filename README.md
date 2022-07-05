@@ -1,8 +1,9 @@
 # tap-summary
-[![version](https://img.shields.io/npm/v/tap-summary.svg)](https://www.npmjs.org/package/tap-summary)
-[![status](https://travis-ci.org/zoubin/tap-summary.svg?branch=master)](https://travis-ci.org/zoubin/tap-summary)
-[![dependencies](https://david-dm.org/zoubin/tap-summary.svg)](https://david-dm.org/zoubin/tap-summary)
-[![devDependencies](https://david-dm.org/zoubin/tap-summary/dev-status.svg)](https://david-dm.org/zoubin/tap-summary#info=devDependencies)
+
+
+This is a fork of https://github.com/zoubin/tap-summary maintained by [Nicolas Lochet](https://github.com/nicocube)
+
+NPM package available: [![version](https://img.shields.io/npm/v/@freecube/tap-summary)](https://www.npmjs.com/package/@freecube/tap-summary)
 
 A reporter for TAP.
 
